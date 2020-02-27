@@ -24,7 +24,7 @@ Install Modules with pip
 pip install requests
 ```
 
-Example of asyncio call:
+Example of requests call:
 
 ```python
 import requests
