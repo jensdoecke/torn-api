@@ -29,7 +29,7 @@ Example of requests call:
 ```python
 import requests
 
-api_key = '' # <- put your secret here 
+api_key = '' # <- put your secret here
 id = 2200962
 
 

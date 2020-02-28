@@ -30,7 +30,7 @@ Example of asyncio call:
 import asyncio
 import aiohttp
 
-api_key = '' # <- put your secret here 
+api_key = '' # <- put your secret here
 id = 2200962
 
 async def fetch(session, url, params):
