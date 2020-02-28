@@ -12,6 +12,6 @@ if you just want to work with the sqlite3-Database use
 tar -xvf torn-users.db.xz
 ```
 
-![Table structure](img/database.png "Logo Title Text 1")
+![Table structure](img/database.png "User Database")
 
 
